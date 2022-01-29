@@ -3,6 +3,7 @@ python
 api_keys.py
 API_practice.ipynb
 random_numbers.ipynb
+api_keys_files
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
